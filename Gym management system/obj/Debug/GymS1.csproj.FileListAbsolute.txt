@@ -1,0 +1,13 @@
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.csproj.AssemblyReference.cache
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.ClassForm.resources
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.LoginForm.resources
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.Properties.Resources.resources
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.csproj.GenerateResource.cache
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.csproj.CoreCompileInputs.cache
+C:\Users\Moreb\source\repos\GymS1\bin\Debug\GymS1.exe.config
+C:\Users\Moreb\source\repos\GymS1\bin\Debug\GymS1.exe
+C:\Users\Moreb\source\repos\GymS1\bin\Debug\GymS1.pdb
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.exe
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.pdb
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.MainForm.resources
+C:\Users\Moreb\source\repos\GymS1\obj\Debug\GymS1.MemberForm.resources
